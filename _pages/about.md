@@ -11,8 +11,8 @@ redirect_from:
 Hello! I am a Master's student at the **University of Science and Technology of China (USTC)**. Prior to this, I received my Bachelor's degree from **Xi'an Jiaotong University (XJTU)** in 2026.
 
 I am broadly enthusiastic about machine learning and artificial intelligence, with a particular interest in:
-* **Anomaly Detection (AD)** (Visual Anomaly Detection, Time-series Anomaly Detection, Out-of-Distribution Detection)
-* **AI Agents** (LLM-based Agents, Multi-agent Systems, Autonomous Decision-Making)
+* **Anomaly Detection (AD)** (Visual Anomaly Detection based Diffusion)
+* **AI Agents** (vLLM-based Agents)
 
 As a beginner in these exciting fields, I am actively exploring fundamental literature, building solid engineering skills, and learning from the academic community.
 
@@ -33,11 +33,8 @@ As a beginner in these exciting fields, I am actively exploring fundamental lite
 
 ## 📝 Publications & Research in Progress
 
-*(Publications are on the way! Currently working on projects related to Anomaly Detection and AI Agents.)*
+*(Publications are on the way!)*
 
-* **Research on Anomaly Detection & Agent Systems** *(Work in progress)*  
-  *Exploring deep representation learning for anomaly detection and agent-based frameworks.*  
-  `[Manuscript under preparation / Coming soon]`
 
 ---
 
@@ -45,4 +42,4 @@ As a beginner in these exciting fields, I am actively exploring fundamental lite
 
 * **Email:** [zihaowan@mail.ustc.edu.cn](mailto:zihaowan@mail.ustc.edu.cn)
 * **GitHub:** [https://github.com/hy28hy](https://github.com/hy28hy)
-* **Location:** USTC, Hefei, Anhui, China
+* **WeChat:** HY_28yi
