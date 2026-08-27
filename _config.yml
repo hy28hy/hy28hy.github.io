@@ -76,10 +76,10 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "/images/500x300.png"
-  bio              : "Incoming Master's student at USTC."
-  location         : "Hefei, China"
-  employer         : "University of Science and Technology of China"
+  avatar           : "/images/favicon-192x192.png"
+  bio              : "Master's student at USTC."
+  location         : "China"
+  employer         : 
   pubmed           :
   googlescholar    : 
   researchgate     :
