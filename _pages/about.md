@@ -10,11 +10,11 @@ redirect_from:
 
 Hello! I am a Master's student at the **University of Science and Technology of China (USTC)**. Prior to this, I received my Bachelor's degree from **Xi'an Jiaotong University (XJTU)** in 2026.
 
-I am broadly enthusiastic about machine learning and artificial intelligence, with a growing focus on:
-* **Autonomous Driving (AD)** (End-to-End AD, Motion Planning, World Models)
-* **AI Agents** (LLM-based Agents, Multi-agent Systems, Embodied AI)
+I am broadly enthusiastic about machine learning and artificial intelligence, with a particular interest in:
+* **Anomaly Detection (AD)** (Visual Anomaly Detection, Time-series Anomaly Detection, Out-of-Distribution Detection)
+* **AI Agents** (LLM-based Agents, Multi-agent Systems, Autonomous Decision-Making)
 
-As a beginner in these exciting areas, I am actively exploring fundamental literature, building solid engineering skills, and learning from the research community.
+As a beginner in these exciting fields, I am actively exploring fundamental literature, building solid engineering skills, and learning from the academic community.
 
 ---
 
@@ -27,16 +27,16 @@ As a beginner in these exciting areas, I am actively exploring fundamental liter
 ## 🎓 Education
 
 * **M.S. in Computer Science / Artificial Intelligence**, *University of Science and Technology of China (USTC)*, 2026 – Present
-* **B.S. in Engineering**, *Xi'an Jiaotong University (XJTU)*, 2022 – 2026
+* **B.S.**, *Xi'an Jiaotong University (XJTU)*, 2022 – 2026
 
 ---
 
 ## 📝 Publications & Research in Progress
 
-*(Publications are on the way! Currently working on exciting projects in Autonomous Driving and AI Agents.)*
+*(Publications are on the way! Currently working on projects related to Anomaly Detection and AI Agents.)*
 
-* **Research on Autonomous Driving & Agent Systems** *(Working in progress)*  
-  *Exploring foundational models and benchmark evaluations.*  
+* **Research on Anomaly Detection & Agent Systems** *(Work in progress)*  
+  *Exploring deep representation learning for anomaly detection and agent-based frameworks.*  
   `[Manuscript under preparation / Coming soon]`
 
 ---
